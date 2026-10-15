@@ -42,8 +42,8 @@ dirb {url}
 ---
 
 ## Exploit（攻撃）
-無し
-
+- Linux：dirb
+- Windows：gobuster　※ただしGoのInstallが必要
 ---
 
 ## 学んだこと
